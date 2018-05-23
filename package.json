@@ -1,0 +1,27 @@
+{
+  "name": "oauth-playlist",
+  "version": "1.0.0",
+  "description": "oauth with passport.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumindarw/oauth-playlist.git"
+  },
+  "keywords": [
+    "oauth",
+    "passportjs"
+  ],
+  "author": "Duminda Wanninayake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumindarw/oauth-playlist/issues"
+  },
+  "homepage": "https://github.com/dumindarw/oauth-playlist#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
